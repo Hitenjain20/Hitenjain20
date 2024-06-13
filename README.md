@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hitenjain20
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning transformers architecture
-- 💞️ I’m looking to collaborate on machine learning projects
+- 🌱 I’m currently learning transformer architecture
+- 💞️ I’m looking to collaborate on machine-learning projects
 - 📫 How to reach me https://www.linkedin.com/in/hiten-jain-b44846210
 
 <!---
